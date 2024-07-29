@@ -1,4 +1,4 @@
-class J0728_1  {
+class J0725_1  {
     public static void main(String[] args) {
         String x = "Tejas ";
         String y = "23BAI1564";
