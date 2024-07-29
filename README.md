@@ -3,4 +3,4 @@
 @VIT CC
 FACULTY: RAJIV VINCENT
 
-JAVA PROGRAMS UPLOADED WITH (MM)(DD)_(PrgNo.) for ease of viewing.
+JAVA PROGRAMS UPLOADED WITH NAMING SCHEME (MM)(DD)_(PrgNo.) for ease of viewing.
