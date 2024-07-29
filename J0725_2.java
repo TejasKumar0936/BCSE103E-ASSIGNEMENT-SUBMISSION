@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class J0728_2{
+class J0725_2{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice;
